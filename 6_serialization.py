@@ -17,7 +17,7 @@ address_dict = {'city': 'gurgaon', 'state': 'haryana', 'pin': '122001'}
 
 address1 = Address(**address_dict)
 
-patient_dict = {'name': 'nitish', 'age': 35, 'address': address1}
+patient_dict = {'name': 'john', 'age': 35, 'address': address1}
 
 patient1 = Patient(**patient_dict)
 
