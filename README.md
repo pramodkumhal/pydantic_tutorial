@@ -12,10 +12,10 @@ This repository contains a series of Python scripts demonstrating the features a
 - **6_serialization.py**: Demonstrates serialization and parsing with Pydantic.
 
 ## Getting Started
-
+ 
 1. **Install Pydantic** (if not already installed):
    ```bash
-   pip install pydantic
+   pip install pydantic 
    ```
 2. **Run the scripts**:
    ```bash
